@@ -1,0 +1,8 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b58f97fd7f10a201fe0a810?fbclid=IwAR1UmBn06tKUBgM4EL-Id7wb27kKBobSIEamslDkrmwpt8D9ba2CC5th3lw
+
+官方Github網址__https://github.com/SteveJohnstone/VoronoiMapGen
+
+本人Github網址__https://github.com/z1125411235/UWA_VoronoiMapGenerator
+
